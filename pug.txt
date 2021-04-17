@@ -1,0 +1,9 @@
+        //- buffered code
+        h1=tour 
+        h2=user.toUpperCase()
+        //-h1 The Park Camper
+
+        //- unbuffered code
+        - const x = 9;
+        p=2*x
+        p Some Text
